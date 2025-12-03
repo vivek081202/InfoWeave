@@ -1,0 +1,7 @@
+Healthcare technology is transforming patient care and medical treatments. Electronic health 
+records enable doctors to access patient information instantly, improving diagnosis accuracy 
+and treatment efficiency. Telemedicine platforms allow patients to consult with specialists 
+remotely, making healthcare more accessible to rural communities. Wearable devices monitor 
+vital signs in real-time, alerting medical professionals to potential health issues before 
+they become critical. Artificial intelligence assists radiologists in detecting diseases 
+from medical imaging with unprecedented accuracy.
