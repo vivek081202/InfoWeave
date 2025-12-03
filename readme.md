@@ -1,4 +1,4 @@
-# 📚 Smart Document Organizer & Similarity Detector
+# InfoWeave Smart Document Organizer & Similarity Detector
 
 **AI-Powered Document Management System** using K-Means Clustering and Cosine Similarity
 
@@ -495,5 +495,6 @@ Having issues or questions?
 ---
 
 **Made with ❤️ for Document Management • 100% Free • Privacy-First • Research-Grade AI**
+
 
 *Last Updated: 2024 • Version 1.0*
